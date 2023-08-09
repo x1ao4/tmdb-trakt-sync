@@ -45,7 +45,7 @@
 <br>
 
 # tmdb-trakt-sync
-With tmdb-trakt-sync, you can synchronize movie and TV show ratings and watch history between your TMDB and Trakt accounts.
+With tmdb-trakt-sync, you can synchronize movie and TV show ratings and watch history between your [TMDB](https://www.themoviedb.org/) and [Trakt](https://trakt.tv/) accounts.
 
 ## Requirements
 - Installed Python 3.0 or higher.
